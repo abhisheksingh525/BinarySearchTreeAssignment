@@ -18,7 +18,6 @@ public class MyBinarySearchTree<E extends Comparable<E>> implements BinarySearch
     }
     @Override
     public void insert(E data) {
-
     }
 
     @Override
